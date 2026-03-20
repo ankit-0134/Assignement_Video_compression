@@ -1,0 +1,3047 @@
+{
+  "source_video": "video_sample_1.mov",
+  "total_frames": 7169,
+  "kept_frames": 276,
+  "source_fps": 58.514487824785746,
+  "source_duration_s": 122.52,
+  "segments": [
+    {
+      "frame_index": 0,
+      "timestamp_s": 0.0,
+      "motion_score": 1.0,
+      "has_face": true,
+      "phash_similarity": 0.0,
+      "keep_reasons": [
+        "face_detected",
+        "motion",
+        "context_frame"
+      ]
+    },
+    {
+      "frame_index": 5,
+      "timestamp_s": 0.0854,
+      "motion_score": 1.351434,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 19,
+      "timestamp_s": 0.3247,
+      "motion_score": 1.247207,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 141,
+      "timestamp_s": 2.4097,
+      "motion_score": 2.084065,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 195,
+      "timestamp_s": 3.3325,
+      "motion_score": 1.183672,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 231,
+      "timestamp_s": 3.9477,
+      "motion_score": 1.040538,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 276,
+      "timestamp_s": 4.7168,
+      "motion_score": 1.623685,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 339,
+      "timestamp_s": 5.7934,
+      "motion_score": 2.127597,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 390,
+      "timestamp_s": 6.665,
+      "motion_score": 1.975036,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 441,
+      "timestamp_s": 7.5366,
+      "motion_score": 2.227175,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 534,
+      "timestamp_s": 9.1259,
+      "motion_score": 2.270261,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 546,
+      "timestamp_s": 9.331,
+      "motion_score": 1.215158,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 561,
+      "timestamp_s": 9.5874,
+      "motion_score": 1.201168,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 576,
+      "timestamp_s": 9.8437,
+      "motion_score": 1.147317,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 648,
+      "timestamp_s": 11.0742,
+      "motion_score": 1.573677,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 740,
+      "timestamp_s": 12.6464,
+      "motion_score": 1.608664,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 761,
+      "timestamp_s": 13.0053,
+      "motion_score": 0.987492,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 791,
+      "timestamp_s": 13.518,
+      "motion_score": 1.933169,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 794,
+      "timestamp_s": 13.5693,
+      "motion_score": 0.374029,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 827,
+      "timestamp_s": 14.1333,
+      "motion_score": 1.609689,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 836,
+      "timestamp_s": 14.2871,
+      "motion_score": 0.976922,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 857,
+      "timestamp_s": 14.6459,
+      "motion_score": 1.613137,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 869,
+      "timestamp_s": 14.851,
+      "motion_score": 1.427391,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 878,
+      "timestamp_s": 15.0048,
+      "motion_score": 1.329134,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 881,
+      "timestamp_s": 15.0561,
+      "motion_score": 1.426601,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 893,
+      "timestamp_s": 15.2612,
+      "motion_score": 1.49332,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 905,
+      "timestamp_s": 15.4663,
+      "motion_score": 1.856714,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 923,
+      "timestamp_s": 15.7739,
+      "motion_score": 2.30505,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 932,
+      "timestamp_s": 15.9277,
+      "motion_score": 1.338247,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 944,
+      "timestamp_s": 16.1328,
+      "motion_score": 1.47245,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 953,
+      "timestamp_s": 16.2866,
+      "motion_score": 1.786254,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 983,
+      "timestamp_s": 16.7993,
+      "motion_score": 2.003664,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1010,
+      "timestamp_s": 17.2607,
+      "motion_score": 2.179187,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1022,
+      "timestamp_s": 17.4658,
+      "motion_score": 1.71435,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1034,
+      "timestamp_s": 17.6708,
+      "motion_score": 1.736828,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1055,
+      "timestamp_s": 18.0297,
+      "motion_score": 2.005228,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1070,
+      "timestamp_s": 18.2861,
+      "motion_score": 1.492341,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1085,
+      "timestamp_s": 18.5424,
+      "motion_score": 1.820714,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1103,
+      "timestamp_s": 18.85,
+      "motion_score": 1.651078,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1118,
+      "timestamp_s": 19.1064,
+      "motion_score": 1.308949,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1133,
+      "timestamp_s": 19.3627,
+      "motion_score": 0.990548,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1160,
+      "timestamp_s": 19.8242,
+      "motion_score": 1.441966,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1196,
+      "timestamp_s": 20.4394,
+      "motion_score": 1.833981,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1236,
+      "timestamp_s": 21.123,
+      "motion_score": 1.772306,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1251,
+      "timestamp_s": 21.3793,
+      "motion_score": 1.246329,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1260,
+      "timestamp_s": 21.5331,
+      "motion_score": 1.147446,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1273,
+      "timestamp_s": 21.7553,
+      "motion_score": 1.081769,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1332,
+      "timestamp_s": 22.7636,
+      "motion_score": 1.607302,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1389,
+      "timestamp_s": 23.7377,
+      "motion_score": 1.570684,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1404,
+      "timestamp_s": 23.9941,
+      "motion_score": 1.00829,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1497,
+      "timestamp_s": 25.5834,
+      "motion_score": 2.086919,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1515,
+      "timestamp_s": 25.891,
+      "motion_score": 0.802906,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1593,
+      "timestamp_s": 27.224,
+      "motion_score": 1.622573,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1667,
+      "timestamp_s": 28.4887,
+      "motion_score": 1.519246,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1692,
+      "timestamp_s": 28.9159,
+      "motion_score": 1.0521,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1754,
+      "timestamp_s": 29.9755,
+      "motion_score": 1.287259,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1816,
+      "timestamp_s": 31.035,
+      "motion_score": 1.667945,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1840,
+      "timestamp_s": 31.4452,
+      "motion_score": 1.229591,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1897,
+      "timestamp_s": 32.4193,
+      "motion_score": 1.871557,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1951,
+      "timestamp_s": 33.3422,
+      "motion_score": 1.772116,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 1966,
+      "timestamp_s": 33.5985,
+      "motion_score": 1.39053,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2023,
+      "timestamp_s": 34.5726,
+      "motion_score": 2.079541,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2047,
+      "timestamp_s": 34.9828,
+      "motion_score": 1.646996,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2062,
+      "timestamp_s": 35.2391,
+      "motion_score": 1.819496,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2080,
+      "timestamp_s": 35.5468,
+      "motion_score": 1.505579,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2089,
+      "timestamp_s": 35.7006,
+      "motion_score": 1.312609,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2101,
+      "timestamp_s": 35.9056,
+      "motion_score": 1.346534,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2107,
+      "timestamp_s": 36.0082,
+      "motion_score": 1.417662,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2113,
+      "timestamp_s": 36.1107,
+      "motion_score": 1.404072,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2140,
+      "timestamp_s": 36.5721,
+      "motion_score": 1.71403,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2161,
+      "timestamp_s": 36.931,
+      "motion_score": 1.591493,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2197,
+      "timestamp_s": 37.5463,
+      "motion_score": 1.734508,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2209,
+      "timestamp_s": 37.7513,
+      "motion_score": 1.402612,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2215,
+      "timestamp_s": 37.8539,
+      "motion_score": 1.310665,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2224,
+      "timestamp_s": 38.0077,
+      "motion_score": 1.096589,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2232,
+      "timestamp_s": 38.1444,
+      "motion_score": 1.094007,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2255,
+      "timestamp_s": 38.5375,
+      "motion_score": 1.574391,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2282,
+      "timestamp_s": 38.9989,
+      "motion_score": 1.476133,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2315,
+      "timestamp_s": 39.5629,
+      "motion_score": 1.653013,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2366,
+      "timestamp_s": 40.4344,
+      "motion_score": 1.45405,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2411,
+      "timestamp_s": 41.2035,
+      "motion_score": 1.518876,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2609,
+      "timestamp_s": 44.5872,
+      "motion_score": 1.93103,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion",
+        "context_frame"
+      ]
+    },
+    {
+      "frame_index": 2657,
+      "timestamp_s": 45.4076,
+      "motion_score": 1.89672,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2665,
+      "timestamp_s": 45.5443,
+      "motion_score": 1.265068,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2671,
+      "timestamp_s": 45.6468,
+      "motion_score": 1.461781,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2689,
+      "timestamp_s": 45.9544,
+      "motion_score": 1.555657,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2707,
+      "timestamp_s": 46.262,
+      "motion_score": 1.557535,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2722,
+      "timestamp_s": 46.5184,
+      "motion_score": 1.723337,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2737,
+      "timestamp_s": 46.7747,
+      "motion_score": 1.159697,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2746,
+      "timestamp_s": 46.9285,
+      "motion_score": 1.681291,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2755,
+      "timestamp_s": 47.0824,
+      "motion_score": 1.104672,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2773,
+      "timestamp_s": 47.39,
+      "motion_score": 1.213525,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2827,
+      "timestamp_s": 48.3128,
+      "motion_score": 1.450005,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2878,
+      "timestamp_s": 49.1844,
+      "motion_score": 1.637576,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2890,
+      "timestamp_s": 49.3895,
+      "motion_score": 0.886741,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2896,
+      "timestamp_s": 49.492,
+      "motion_score": 1.189308,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2909,
+      "timestamp_s": 49.7142,
+      "motion_score": 1.486616,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2938,
+      "timestamp_s": 50.2098,
+      "motion_score": 1.615995,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 2992,
+      "timestamp_s": 51.1326,
+      "motion_score": 1.681225,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3046,
+      "timestamp_s": 52.0555,
+      "motion_score": 1.485893,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3082,
+      "timestamp_s": 52.6707,
+      "motion_score": 1.436614,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3085,
+      "timestamp_s": 52.722,
+      "motion_score": 0.629664,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3097,
+      "timestamp_s": 52.9271,
+      "motion_score": 1.028743,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3115,
+      "timestamp_s": 53.2347,
+      "motion_score": 1.330303,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3172,
+      "timestamp_s": 54.2088,
+      "motion_score": 1.854338,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3211,
+      "timestamp_s": 54.8753,
+      "motion_score": 2.108135,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3247,
+      "timestamp_s": 55.4905,
+      "motion_score": 1.979667,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3289,
+      "timestamp_s": 56.2083,
+      "motion_score": 2.173283,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3433,
+      "timestamp_s": 58.6692,
+      "motion_score": 2.996281,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3570,
+      "timestamp_s": 61.0105,
+      "motion_score": 2.229016,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3582,
+      "timestamp_s": 61.2156,
+      "motion_score": 1.165691,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3651,
+      "timestamp_s": 62.3948,
+      "motion_score": 2.069792,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3660,
+      "timestamp_s": 62.5486,
+      "motion_score": 1.847702,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3684,
+      "timestamp_s": 62.9588,
+      "motion_score": 2.082067,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3732,
+      "timestamp_s": 63.7791,
+      "motion_score": 2.203815,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3741,
+      "timestamp_s": 63.9329,
+      "motion_score": 0.930128,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3747,
+      "timestamp_s": 64.0354,
+      "motion_score": 0.613837,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3765,
+      "timestamp_s": 64.343,
+      "motion_score": 1.548111,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3821,
+      "timestamp_s": 65.3001,
+      "motion_score": 1.656026,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3852,
+      "timestamp_s": 65.8299,
+      "motion_score": 2.046262,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3876,
+      "timestamp_s": 66.24,
+      "motion_score": 1.866175,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3891,
+      "timestamp_s": 66.4964,
+      "motion_score": 1.119969,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3927,
+      "timestamp_s": 67.1116,
+      "motion_score": 2.220657,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3936,
+      "timestamp_s": 67.2654,
+      "motion_score": 1.178525,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 3966,
+      "timestamp_s": 67.7781,
+      "motion_score": 1.601353,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4032,
+      "timestamp_s": 68.906,
+      "motion_score": 3.004525,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4059,
+      "timestamp_s": 69.3674,
+      "motion_score": 1.499398,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4095,
+      "timestamp_s": 69.9827,
+      "motion_score": 2.456727,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4122,
+      "timestamp_s": 70.4441,
+      "motion_score": 2.34766,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4140,
+      "timestamp_s": 70.7517,
+      "motion_score": 1.938125,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4143,
+      "timestamp_s": 70.803,
+      "motion_score": 1.73127,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4155,
+      "timestamp_s": 71.0081,
+      "motion_score": 1.918812,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4173,
+      "timestamp_s": 71.3157,
+      "motion_score": 2.197893,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4179,
+      "timestamp_s": 71.4182,
+      "motion_score": 1.834284,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4188,
+      "timestamp_s": 71.572,
+      "motion_score": 1.976659,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4197,
+      "timestamp_s": 71.7258,
+      "motion_score": 2.29107,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4203,
+      "timestamp_s": 71.8284,
+      "motion_score": 1.795178,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4209,
+      "timestamp_s": 71.9309,
+      "motion_score": 1.559346,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4215,
+      "timestamp_s": 72.0334,
+      "motion_score": 1.318399,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4251,
+      "timestamp_s": 72.6487,
+      "motion_score": 2.271595,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4263,
+      "timestamp_s": 72.8538,
+      "motion_score": 1.417522,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4278,
+      "timestamp_s": 73.1101,
+      "motion_score": 1.304691,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4293,
+      "timestamp_s": 73.3664,
+      "motion_score": 1.258855,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4311,
+      "timestamp_s": 73.6741,
+      "motion_score": 1.492449,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4320,
+      "timestamp_s": 73.8279,
+      "motion_score": 0.851036,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4326,
+      "timestamp_s": 73.9304,
+      "motion_score": 1.093179,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4338,
+      "timestamp_s": 74.1355,
+      "motion_score": 1.222055,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4350,
+      "timestamp_s": 74.3406,
+      "motion_score": 1.101679,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4374,
+      "timestamp_s": 74.7507,
+      "motion_score": 1.206739,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4398,
+      "timestamp_s": 75.1609,
+      "motion_score": 1.17709,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4419,
+      "timestamp_s": 75.5198,
+      "motion_score": 1.264655,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4428,
+      "timestamp_s": 75.6736,
+      "motion_score": 0.948127,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4434,
+      "timestamp_s": 75.7761,
+      "motion_score": 1.018566,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4443,
+      "timestamp_s": 75.9299,
+      "motion_score": 1.12602,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4449,
+      "timestamp_s": 76.0325,
+      "motion_score": 1.314327,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4458,
+      "timestamp_s": 76.1863,
+      "motion_score": 1.283582,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4476,
+      "timestamp_s": 76.4939,
+      "motion_score": 1.652496,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4482,
+      "timestamp_s": 76.5964,
+      "motion_score": 0.81871,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4500,
+      "timestamp_s": 76.904,
+      "motion_score": 0.965375,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4524,
+      "timestamp_s": 77.3142,
+      "motion_score": 1.968155,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4533,
+      "timestamp_s": 77.468,
+      "motion_score": 1.444737,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4545,
+      "timestamp_s": 77.6731,
+      "motion_score": 1.19466,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4557,
+      "timestamp_s": 77.8781,
+      "motion_score": 1.21121,
+      "has_face": true,
+      "phash_similarity": 0.84375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4572,
+      "timestamp_s": 78.1345,
+      "motion_score": 1.223356,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4605,
+      "timestamp_s": 78.6985,
+      "motion_score": 1.115442,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4611,
+      "timestamp_s": 78.801,
+      "motion_score": 1.1546,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4638,
+      "timestamp_s": 79.2624,
+      "motion_score": 1.284688,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4644,
+      "timestamp_s": 79.365,
+      "motion_score": 1.122549,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4647,
+      "timestamp_s": 79.4162,
+      "motion_score": 0.802262,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4678,
+      "timestamp_s": 79.946,
+      "motion_score": 1.512155,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4692,
+      "timestamp_s": 80.1853,
+      "motion_score": 1.351734,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4707,
+      "timestamp_s": 80.4416,
+      "motion_score": 1.300086,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4713,
+      "timestamp_s": 80.5442,
+      "motion_score": 1.526747,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4728,
+      "timestamp_s": 80.8005,
+      "motion_score": 1.555978,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4734,
+      "timestamp_s": 80.903,
+      "motion_score": 0.96056,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4740,
+      "timestamp_s": 81.0056,
+      "motion_score": 1.25254,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4743,
+      "timestamp_s": 81.0568,
+      "motion_score": 0.852786,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4758,
+      "timestamp_s": 81.3132,
+      "motion_score": 1.434725,
+      "has_face": true,
+      "phash_similarity": 0.84375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4761,
+      "timestamp_s": 81.3645,
+      "motion_score": 1.263454,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4776,
+      "timestamp_s": 81.6208,
+      "motion_score": 1.450929,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4785,
+      "timestamp_s": 81.7746,
+      "motion_score": 1.526193,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4803,
+      "timestamp_s": 82.0822,
+      "motion_score": 1.535361,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4812,
+      "timestamp_s": 82.236,
+      "motion_score": 1.114879,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4854,
+      "timestamp_s": 82.9538,
+      "motion_score": 2.028776,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4875,
+      "timestamp_s": 83.3127,
+      "motion_score": 1.662468,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4887,
+      "timestamp_s": 83.5178,
+      "motion_score": 1.323138,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4905,
+      "timestamp_s": 83.8254,
+      "motion_score": 1.693561,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4929,
+      "timestamp_s": 84.2355,
+      "motion_score": 1.592646,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4941,
+      "timestamp_s": 84.4406,
+      "motion_score": 1.345364,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4947,
+      "timestamp_s": 84.5432,
+      "motion_score": 1.284128,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 4968,
+      "timestamp_s": 84.9021,
+      "motion_score": 1.587328,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5052,
+      "timestamp_s": 86.3376,
+      "motion_score": 2.053081,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5103,
+      "timestamp_s": 87.2092,
+      "motion_score": 1.573848,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5127,
+      "timestamp_s": 87.6193,
+      "motion_score": 1.519881,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5169,
+      "timestamp_s": 88.3371,
+      "motion_score": 1.749411,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5187,
+      "timestamp_s": 88.6447,
+      "motion_score": 1.273145,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5244,
+      "timestamp_s": 89.6188,
+      "motion_score": 1.45836,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5274,
+      "timestamp_s": 90.1315,
+      "motion_score": 1.547594,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5289,
+      "timestamp_s": 90.3879,
+      "motion_score": 1.169713,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5325,
+      "timestamp_s": 91.0031,
+      "motion_score": 1.688808,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5343,
+      "timestamp_s": 91.3107,
+      "motion_score": 1.688996,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5400,
+      "timestamp_s": 92.2848,
+      "motion_score": 2.261773,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5406,
+      "timestamp_s": 92.3874,
+      "motion_score": 1.516927,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5443,
+      "timestamp_s": 93.0197,
+      "motion_score": 1.791752,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5464,
+      "timestamp_s": 93.3786,
+      "motion_score": 1.480665,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5473,
+      "timestamp_s": 93.5324,
+      "motion_score": 1.42403,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5491,
+      "timestamp_s": 93.84,
+      "motion_score": 1.713359,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5530,
+      "timestamp_s": 94.5065,
+      "motion_score": 2.063657,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5551,
+      "timestamp_s": 94.8654,
+      "motion_score": 1.734163,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5581,
+      "timestamp_s": 95.3781,
+      "motion_score": 2.042346,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5599,
+      "timestamp_s": 95.6857,
+      "motion_score": 1.820788,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5647,
+      "timestamp_s": 96.506,
+      "motion_score": 2.278745,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5806,
+      "timestamp_s": 99.2233,
+      "motion_score": 3.375465,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5821,
+      "timestamp_s": 99.4796,
+      "motion_score": 1.292606,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5842,
+      "timestamp_s": 99.8385,
+      "motion_score": 1.731205,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5896,
+      "timestamp_s": 100.7614,
+      "motion_score": 1.798575,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 5938,
+      "timestamp_s": 101.4791,
+      "motion_score": 2.479498,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6098,
+      "timestamp_s": 104.2135,
+      "motion_score": 3.263352,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6145,
+      "timestamp_s": 105.0167,
+      "motion_score": 1.91836,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6184,
+      "timestamp_s": 105.6832,
+      "motion_score": 1.970359,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6199,
+      "timestamp_s": 105.9396,
+      "motion_score": 1.423105,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6252,
+      "timestamp_s": 106.8453,
+      "motion_score": 1.842611,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6262,
+      "timestamp_s": 107.0162,
+      "motion_score": 1.423873,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6277,
+      "timestamp_s": 107.2726,
+      "motion_score": 1.706996,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6310,
+      "timestamp_s": 107.8365,
+      "motion_score": 2.004334,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6323,
+      "timestamp_s": 108.0587,
+      "motion_score": 1.908308,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6335,
+      "timestamp_s": 108.2638,
+      "motion_score": 2.128058,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6345,
+      "timestamp_s": 108.4347,
+      "motion_score": 1.894384,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6360,
+      "timestamp_s": 108.691,
+      "motion_score": 2.202264,
+      "has_face": true,
+      "phash_similarity": 0.875,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6385,
+      "timestamp_s": 109.1183,
+      "motion_score": 2.727968,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6390,
+      "timestamp_s": 109.2037,
+      "motion_score": 1.734139,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6395,
+      "timestamp_s": 109.2892,
+      "motion_score": 2.050658,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6400,
+      "timestamp_s": 109.3746,
+      "motion_score": 1.760432,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6410,
+      "timestamp_s": 109.5455,
+      "motion_score": 2.134737,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6422,
+      "timestamp_s": 109.7506,
+      "motion_score": 1.709423,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6444,
+      "timestamp_s": 110.1266,
+      "motion_score": 1.871924,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6456,
+      "timestamp_s": 110.3317,
+      "motion_score": 1.734531,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6462,
+      "timestamp_s": 110.4342,
+      "motion_score": 1.106511,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6486,
+      "timestamp_s": 110.8443,
+      "motion_score": 1.916272,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6531,
+      "timestamp_s": 111.6134,
+      "motion_score": 2.126823,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6544,
+      "timestamp_s": 111.8356,
+      "motion_score": 1.19243,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6554,
+      "timestamp_s": 112.0064,
+      "motion_score": 1.429478,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6568,
+      "timestamp_s": 112.2457,
+      "motion_score": 1.444591,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6588,
+      "timestamp_s": 112.5875,
+      "motion_score": 1.77837,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6606,
+      "timestamp_s": 112.8951,
+      "motion_score": 1.896409,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6612,
+      "timestamp_s": 112.9977,
+      "motion_score": 1.049398,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6621,
+      "timestamp_s": 113.1515,
+      "motion_score": 0.986353,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6627,
+      "timestamp_s": 113.254,
+      "motion_score": 1.05329,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6636,
+      "timestamp_s": 113.4078,
+      "motion_score": 1.180503,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6642,
+      "timestamp_s": 113.5104,
+      "motion_score": 1.604099,
+      "has_face": true,
+      "phash_similarity": 0.875,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6652,
+      "timestamp_s": 113.6812,
+      "motion_score": 1.515631,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6664,
+      "timestamp_s": 113.8863,
+      "motion_score": 1.422117,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6673,
+      "timestamp_s": 114.0401,
+      "motion_score": 0.943858,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6718,
+      "timestamp_s": 114.8092,
+      "motion_score": 1.21034,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6724,
+      "timestamp_s": 114.9117,
+      "motion_score": 1.106721,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6733,
+      "timestamp_s": 115.0655,
+      "motion_score": 1.139179,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6742,
+      "timestamp_s": 115.2193,
+      "motion_score": 0.973564,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6751,
+      "timestamp_s": 115.3731,
+      "motion_score": 1.202517,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6772,
+      "timestamp_s": 115.732,
+      "motion_score": 1.361459,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6793,
+      "timestamp_s": 116.0909,
+      "motion_score": 1.572195,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6802,
+      "timestamp_s": 116.2447,
+      "motion_score": 1.44545,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6823,
+      "timestamp_s": 116.6036,
+      "motion_score": 1.552914,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6847,
+      "timestamp_s": 117.0138,
+      "motion_score": 1.754173,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6883,
+      "timestamp_s": 117.629,
+      "motion_score": 1.969314,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6895,
+      "timestamp_s": 117.8341,
+      "motion_score": 1.260582,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6919,
+      "timestamp_s": 118.2442,
+      "motion_score": 1.577748,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6925,
+      "timestamp_s": 118.3468,
+      "motion_score": 1.099127,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6958,
+      "timestamp_s": 118.9107,
+      "motion_score": 1.654196,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 6980,
+      "timestamp_s": 119.2867,
+      "motion_score": 2.225246,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 7019,
+      "timestamp_s": 119.9532,
+      "motion_score": 2.116038,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 7034,
+      "timestamp_s": 120.2095,
+      "motion_score": 1.920736,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 7049,
+      "timestamp_s": 120.4659,
+      "motion_score": 1.370305,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 7054,
+      "timestamp_s": 120.5513,
+      "motion_score": 1.152782,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 7074,
+      "timestamp_s": 120.8931,
+      "motion_score": 1.660036,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 7083,
+      "timestamp_s": 121.0469,
+      "motion_score": 1.220218,
+      "has_face": true,
+      "phash_similarity": 0.90625,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    },
+    {
+      "frame_index": 7150,
+      "timestamp_s": 122.192,
+      "motion_score": 1.74188,
+      "has_face": true,
+      "phash_similarity": 0.9375,
+      "keep_reasons": [
+        "face_detected",
+        "motion"
+      ]
+    }
+  ]
+}
